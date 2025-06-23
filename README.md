@@ -6,7 +6,7 @@
 
 ## **Project Overview**
 - **Goal:** Analyze survival patterns on the Titanic.
-- **Techniques Used:** EDA, Data Visualization, Logistic Regression ,Etc.
+- **Techniques Used:** EDA, Data Visualization, Logistic Regression, etc.
 - **Key Findings:** Women and 1st-class passengers had higher survival rates.
 
 ## **Installation**
